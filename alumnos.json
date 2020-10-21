@@ -1,7 +1,7 @@
 [
     {
         "nombre":"José",
-        "apellido": "Hernández",
+        "apellido":"Hernández",
         "edad":"18",
         "correo":"jhernandez@gmail.com"
     },
