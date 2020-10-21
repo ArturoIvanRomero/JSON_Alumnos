@@ -1,17 +1,56 @@
 [
     {
-      "nombre":"José",
-      "apellido": "Hernández",
-      "edad": "18"
+        "nombre":"José",
+        "apellido": "Hernández",
+        "edad":"18",
+        "correo":"jhernandez@gmail.com"
     },
     {
-      "nombre":"Rodrigo",
-      "apellido": "López",
-      "edad": "20"
+        "nombre":"Rodrigo",
+        "apellido":"López",
+        "edad":"20",
+        "correo":"rlopez@gmail.com"
     },
     {
-      "nombre":"María",
-      "apellido": "Hernández",
-      "edad": "19"
+        "nombre":"María",
+        "apellido":"Hernández",
+        "edad":"19",
+        "correo":"mhernandez@gmail.com"
+    }
+    {
+        "nombre":"Valeria",
+        "apellido":"Pérez",
+        "edad":"19",
+        "correo":"vperez@gmail.com"
+    }
+    {
+        "nombre":"Iván",
+        "apellido":"Torres",
+        "edad":"18",
+        "correo":"itorres@gmail.com"
+    }
+    {
+        "nombre":"Jorge",
+        "apellido":"Herrera",
+        "edad":"18",
+        "correo":"jherrera@gmail.com"
+    }
+    {
+        "nombre":"María",
+        "apellido":"Herrera",
+        "edad":"18",
+        "correo":"mherrera@gmail.com"
+    }
+    {
+        "nombre":"Luis",
+        "apellido":"Barrera",
+        "edad":"21",
+        "correo":"lbarrera@gmail.com"
+    }
+    {
+        "nombre":"Luis",
+        "apellido":"Aguilar",
+        "edad":"20",
+        "correo":"laguilar@gmail.com"
     }
 ]
